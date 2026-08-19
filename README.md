@@ -26,8 +26,8 @@ Edit YouTube video metadata in a Google Sheet and sync changes with the **YouTub
 ## Setup
 
 ```bash
-git clone https://github.com/KushalAzza/youtube-bulk-update.git
-cd youtube-bulk-update
+git clone https://github.com/KushalAzza/youtube-bulk-updater.git
+cd youtube-bulk-updater
 ```
 
 ```mermaid
@@ -132,7 +132,7 @@ Example: pushing **200** rows ≈ **10,200 units** — can exceed one day’s de
 ## Project layout
 
 ```
-youtube-bulk-update/
+youtube-bulk-updater/
   LICENSE
   README.md
   src/
